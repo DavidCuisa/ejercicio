@@ -1,0 +1,26 @@
+.EJEMPLO {
+  display: inline-flex;
+  width: 100%;
+  height: 160px;
+  background-color: rgb(75, 113, 218);
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: ;
+}
+
+
+
+.titulo1 {
+  display: inline-block;
+  padding: 20px;
+  color: bisque;
+}
+
+.foto {
+  width: 130px;
+  height: 90px;
+}
+
+.banner{
+  padding: 40px 25%;
+}
